@@ -12,7 +12,6 @@
 
 - okay
 
-- work good
 
 
 
